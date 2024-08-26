@@ -9,3 +9,6 @@ learning models.
 
 ## Dataset
 MIT-BIH is a publicly available dataset. It can be found here [link](https://physionet.org/content/mitdb/1.0.0)
+
+## Report
+This project was done as part of CSCI 5890 : Machine Learning for Healthcare curriculum. Find the complete project report here [link](https://github.com/1998anwesha/Arrythmia-classification-with-ML-DL-techniques/blob/main/Arrythmia_classification_report.pdf)
